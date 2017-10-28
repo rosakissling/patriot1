@@ -1,0 +1,24 @@
+  /* style css for Patriot Airways*/
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: darkgrey;
+}
+
+#logo{
+    float: left;
+    margin-right: 500px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#companyname{
+    float: left;
+    
+}
+
+#menu{
+    clear: both;
+    margin-left: 500px;
+}
